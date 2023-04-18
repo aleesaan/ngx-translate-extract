@@ -132,6 +132,7 @@ describe('PipeParser', () => {
 					<ion-title>{{ 'Info' | translate }}</ion-title>
 				</ion-navbar>
 			</ion-header>
+      <ion-something color="blue" />
 
 			<ion-content>
 

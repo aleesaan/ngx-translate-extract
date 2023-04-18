@@ -37,7 +37,7 @@
 		"typescript": "^4.5.2"
 	},
 	"dependencies": {
-		"@angular/compiler": "^13.1.2",
+		"@angular/compiler": "^15.2.7",
 		"@phenomnomnominal/tsquery": "^4.1.1",
 		"boxen": "^6.2.1",
 		"colorette": "^2.0.16",
@@ -49,7 +49,7 @@
 		"yargs": "^17.5.1"
 	},
 	"peerDependencies": {
-		"@angular/compiler": ">=13.0.0",
+		"@angular/compiler": ">=15.2.7",
 		"typescript": ">=4.4.0"
 	},
 	"main": "dist/index.js",
